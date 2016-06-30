@@ -1,8 +1,8 @@
 # unity-solution
-auto generating a travis compatible unity3d c# solution.
+Auto generates a travis compatible Unity3d C# solution. This is compatible with Unity 5.4. 
 
 ## Installation
-    npm install -g unity-solution
+    npm install -g unity-solution-2
 
 ## Usage
     unitysolution ./UnityScriptsFolderName [TargetPlatform]
