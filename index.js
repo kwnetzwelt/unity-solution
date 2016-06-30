@@ -132,7 +132,7 @@ var prepareReferences = function(solutionPath) {
         https.get(
             {
                 host: 'codeload.github.com',
-                path: '/malud/unity-libs/zip/master',
+                path: '/kwnetzwelt/unity-libs/zip/master',
                 headers: {  'User-Agent': 'unity-solution node app',
                             'Cache-Control': 'no-cache'}
             },
